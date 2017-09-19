@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="alert_width">@dimen/_250sdp</dimen>
+    <dimen name="common_circle_width">@dimen/_5sdp</dimen>
+    <dimen name="progress_circle_radius">@dimen/_40sdp</dimen>
+</resources>
