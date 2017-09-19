@@ -1,10 +1,11 @@
 # SecuritySweetAlert
 Add it in your root build.gradle at the end of repositories:
 
-  allprojects {
+     allprojects {
+		
 		repositories {
-			...
-			maven { url 'https://jitpack.io' }
+		...
+		maven { url 'https://jitpack.io' }
 		}
 	}
   
